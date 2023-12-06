@@ -1,3 +1,8 @@
+> [!NOTE]
+> <samp> I will update A detailed **Getting Started** Guide along with proper documentation and motivation behind this project, etc. soon :tm: <br>
+> Till then, enjoy the sweet specifications & implimentations of each OS concept in real-time!
+> </samp> 
+
 # jauOS
 
 ## Introduction
