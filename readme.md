@@ -1,8 +1,3 @@
-> [!NOTE]
-> <samp> I will update A detailed **Getting Started** Guide along with proper documentation and motivation behind this project, etc. soon :tm: <br>
-> Till then, enjoy the sweet specifications & implimentations of each OS concept in real-time!
-> </samp> 
-
 # jauOS
 
 ## Introduction
@@ -40,3 +35,6 @@ Welcome to `jauOS`, a rudimentary yet insightful operating system built from the
 ## Process scheduling
 
 - **Round-Robin Scheduling**: Incorporated a simple yet effective round-robin scheduling algorithm, demonstrating basic process scheduling and multitasking
+
+---
+<h4><samp><a href="install.md"> Installation Guide </a></samp></h4>
