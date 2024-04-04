@@ -30,7 +30,7 @@ Once you have installed Bochs and extracted the operating system codebase, follo
    - Open the configuration file in a text editor.
 
 2. **Set Disk Image:**
-   - Add the path to the disk image file of the operating system to the configuration file.
+   - Add the path to the disk image file of the operating system to the configuration file. Place the boot img in the same directory as the OS files.
      ```
      ata0-master: type=disk, path="path/to/disk/image"
      ```
@@ -47,6 +47,16 @@ Once you have installed Bochs and extracted the operating system codebase, follo
 
 5. **Save Configuration:**
    - Save the changes to the configuration file.
+
+## Compiling the Operating System
+Once you configured bochs, Compile the OS by executing (linux)
+```
+./build.sh
+```
+and on mac:
+```
+./build(mac).sh
+```
 
 ## Running the Operating System
 
